@@ -1,0 +1,16 @@
+//"I love you" - alpabetically and with delay
+
+++++++++++++++++++++++++++++++++( //" "
+	{+}*( // " "
+		{+}*+++++++++++++++++++++++++++++++++++++++++++.( //"I"
+			{+}*++++++++++++++++++++++( //"e"
+				{+}*+++++++( //"l"
+					{+}*+++( //"o"
+						{+}*( //"o"
+							{+}*++++++( //"u"
+								{+}*+( //"v"
+									{+}*+++ //"y"
+									
+									
+		
+		//Work in progress, not finished because suprise suprise this language is fucking hard to write in
