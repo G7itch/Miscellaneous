@@ -1,0 +1,13 @@
+// WAIT TEST
+
++++++++++++++++++++++++++++++++++++++++++++++++{+}(+++@@@@@@@@.
+	*++{+}(@@@.)
+	*-.)
+
+//NOTES - @ is a wait operator, similar to two opposite functions side by side "+-"
+//* only change the active timeline that is being altered in the specific universe that is ececuted. So the * in the second universe
+//	Means that every other command after that IN THE SAME UNIVERSE, should be executed to timeline x. It doesnt affect the remaining commands in
+//	universe 1	
+// In the second line an additional @ is provided just to make sure exectution has definately occured before trying to print again
+
+//This code uses the wait function and operation syncing to print the numbers 1,2 and 3 in order
